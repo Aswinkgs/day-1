@@ -37,10 +37,12 @@ img{
 .myself h2,.about h2,.edu h2,.contact h2{
   color:#04AA6D;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 2%;
 }
 .myself p{
   margin-left: 5px;
   margin-right: 10px;
+  margin-left: 2%;
 }
 #about{
   margin-top: 300px;
